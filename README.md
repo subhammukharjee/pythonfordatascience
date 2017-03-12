@@ -39,7 +39,7 @@ Selecting Data in Pandas https://nbviewer.jupyter.org/gist/decisionstats/01fc540
 - Conditional Manipulation (done - link to be put by AO)
 
 ## Data Exploration
-- Adult DataSet http://nbviewer.ipython.org/gist/decisionstats/4142e98375445c5e4174
+- Adult DataSet http://nbviewer.ipython.org/gist/decisionstats/4142e98375445c5e4174 and https://nbviewer.jupyter.org/gist/ajayteach/eed37262e64de78f4b209c5eb4a7ed23
 - Big Diamonds Dataset (Tutorials to be built)
 - Iris Dataset (Tutorials to be built)
 
